@@ -238,5 +238,6 @@ novelty. (There is a reason you won't see "artisanal code" being sold on
 [mocha]: https://mochajs.org/
 [jest]: https://jestjs.io/
 [etsy]: https://etsy.com
-[lesson repo]:
+[lesson repo]:file:///home/james/Challenge-1-Bank-of-Flatiron
+
   https://github.com/learn-co-curriculum/react-hooks-intro-to-npm-readme
